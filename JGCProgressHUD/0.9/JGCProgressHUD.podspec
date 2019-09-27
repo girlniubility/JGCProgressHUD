@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version = "0.9"
   s.summary = "JGCProgressHUD"
   s.description = <<-DESC
-  JGCProgressHUD
+  JGCProgressHUD11
   DESC
   s.homepage = "https://www.baidu.com"
   s.license = "MIT"
